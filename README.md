@@ -115,6 +115,10 @@ The project produced:
 
 Through this project, I strengthened my skills in decision-support system design, business requirements analysis, cross-functional collaboration, implementation planning and responsible data governance. I also developed a clearer understanding of how DSS and GDSS technologies can support managerial judgement without replacing human decision-makers.
 
+## Full Report
+
+[Read the complete DSS and GDSS case study](traveloka_dss_gdss_case_study.pdf)
+
 ## Project Scope and Disclaimer
 
 This is an independent academic case study based on public information. It is not affiliated with, endorsed by or implemented at Traveloka. The framework is conceptual and does not describe Traveloka’s private internal systems.
